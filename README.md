@@ -1,3 +1,5 @@
+Project Overview
+
 This project involves analyzing and transforming Amazon Sales data to uncover insights into sales performance, shipping patterns, and profitability. The dataset contains 3,204 rows and 9 columns, including information such as order and ship dates, product categories, sales figures, profits, and customer geography. The goal was to clean, transform, and analyze the data to identify trends, optimize decision-making, and visualize key insights.
 
 SQL Skills Used:
